@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Corporativo",
+    "synonyms": [
+      "Corporativo",
+      "corporativo",
+      "empresarial"
+    ]
+  },
+  {
+    "value": "Residencial",
+    "synonyms": [
+      "Residencial",
+      "hogar",
+      "casa",
+      "masivo"
+    ]
+  },
+  {
+    "value": "Gobevierno",
+    "synonyms": [
+      "Gobevierno",
+      "gob",
+      "gobierno",
+      "estado",
+      "entidad gubernamental"
+    ]
+  }
+]

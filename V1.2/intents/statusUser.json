@@ -1,0 +1,110 @@
+{
+  "id": "473d2f02-42ee-41ab-97b5-1baea002c59a",
+  "name": "statusUser",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0ebc16d-19c9-4708-a613-6cd608034066",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Comencemos, cual es tu nombre?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "5a109a46-7598-4008-9405-61e42b443608",
+          "required": true,
+          "dataType": "@typeUser",
+          "name": "typeUser",
+          "value": "$typeUser",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Hola, $name.original, Que tipo de Usuario eres?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "f8333da8-39fd-434f-9196-b75ea7099d0d",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cual es tú Correo Electronico o e-Mail?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "f54c046c-110f-4340-9a9d-38f6b112405a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "cedula",
+          "value": "$cedula",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cual es tú número de  cédula?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ae5f8efd-dff4-49db-b229-e17f412dc85d",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "nit",
+          "value": "$nit",
+          "isList": false
+        },
+        {
+          "id": "2cb678ab-4678-4db4-962e-8a6e37d28bff",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "telefono",
+          "value": "$telefono",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ingresa por favor tú número telefónico de contacto?"
+            },
+            {
+              "lang": "es",
+              "value": "Por favor ingresa un numero celular."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Muchas gracias $name.original , registramos tus datos por favor para continuar que tipo de servicio necesitas?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

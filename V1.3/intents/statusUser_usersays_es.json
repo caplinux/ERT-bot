@@ -1,0 +1,314 @@
+[
+  {
+    "id": "4282e488-1af5-40b8-a1e5-2de468340f2b",
+    "data": [
+      {
+        "text": "Carlos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8567dca6-2571-4f8a-9c20-0664abe00161",
+    "data": [
+      {
+        "text": "carlos1andre@ert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8459c3de-c9e2-4bec-927d-57c53a70728c",
+    "data": [
+      {
+        "text": "car@ert.com.co",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f828a5eb-1267-4d94-b4d9-bfa6c0eb04a1",
+    "data": [
+      {
+        "text": "14569349",
+        "alias": "cedula",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1c4423e8-bcba-4459-ad21-7e418d377438",
+    "data": [
+      {
+        "text": "carlos@ert.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "188bdbd2-37a9-4576-aaa2-0af9305d0be6",
+    "data": [
+      {
+        "text": "carlos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f2dc92ac-5952-4b67-bfde-83f8771b0e29",
+    "data": [
+      {
+        "text": "carlos1@ert.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dfd61cd1-3c73-4cbd-ac78-5c4e76eb3161",
+    "data": [
+      {
+        "text": "31131131148",
+        "alias": "cedula",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "68764bc7-56bf-479d-b562-db8f506ead51",
+    "data": [
+      {
+        "text": "6202020",
+        "alias": "cedula",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5b854a3d-d92b-4611-9374-72c6046e8dc0",
+    "data": [
+      {
+        "text": "31831131131",
+        "alias": "cedula",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1f9d8507-54a5-4ee5-a71a-9314886d6488",
+    "data": [
+      {
+        "text": "numero ",
+        "userDefined": false
+      },
+      {
+        "text": "celular",
+        "alias": "telefono",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64b5a51e-9a46-4aa4-ad4a-9eb5a4cb247b",
+    "data": [
+      {
+        "text": "correo ",
+        "userDefined": false
+      },
+      {
+        "text": "electrónico",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f43e700-02c8-4603-9a0e-58e921fc9d75",
+    "data": [
+      {
+        "text": "hogar",
+        "alias": "typeUser",
+        "meta": "@typeUser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1008a88e-ed5a-47ab-8d6d-ebdfda21ad0e",
+    "data": [
+      {
+        "text": "corporativo",
+        "alias": "typeUser",
+        "meta": "@typeUser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bde1b044-93fe-48f3-843f-4242b70c088a",
+    "data": [
+      {
+        "text": "soy ",
+        "userDefined": false
+      },
+      {
+        "text": "corporativo",
+        "alias": "typeUser",
+        "meta": "@typeUser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81a5adb7-245c-4e72-857f-60317c2da4b4",
+    "data": [
+      {
+        "text": "Tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "documento",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "1.",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Cédula",
+        "alias": "cedula",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "NIT",
+        "alias": "nit",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": ")?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "867e6e87-1f3f-47a3-bb2d-2ea6f2b01114",
+    "data": [
+      {
+        "text": "soy ",
+        "userDefined": false
+      },
+      {
+        "text": "hogar",
+        "alias": "typeUser",
+        "meta": "@typeUser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8eea0009-7270-4983-9bdd-3ce41554824e",
+    "data": [
+      {
+        "text": "mi nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "nombre",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb9a8f22-fa1c-49bf-87b7-180187e03f88",
+    "data": [
+      {
+        "text": "estado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

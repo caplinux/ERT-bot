@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0f5ea808-cefe-4a4e-a4ab-1ea41c3b1887",
+    "data": [
+      {
+        "text": "PBX",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f307ea23-7f62-45e2-8ef8-8c23994ede51",
+    "data": [
+      {
+        "text": "Conmutador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28a8086b-3a7d-4a51-a537-dd3813266974",
+    "data": [
+      {
+        "text": "correo electrónico ERT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f7b00b6-0351-419c-b9c9-3be67b838513",
+    "data": [
+      {
+        "text": "numero ",
+        "userDefined": false
+      },
+      {
+        "text": "telefonico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d6a76a5-956b-4822-8339-a9a1e4ae4ea1",
+    "data": [
+      {
+        "text": "reporte daños",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

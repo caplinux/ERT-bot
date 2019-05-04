@@ -1,0 +1,27 @@
+{
+  "id": "e274ee75-8a31-4999-b1ea-d41aecceefce",
+  "name": "contactUs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Oficinas físicas y puntos de pago: Horario de atención 8:00 a.m - 11:30 a.m y de 2:00 p.m a 5:30 p.m. \n\nAquí podrás encontrar las direcciones físicas y ubicación en Google Maps: https://bit.ly/2Y54WpM\n\ne-mail: info@ert.com.co\nLinea de Reporte de Daños: 185\nLinea Gratuita: 018000 520 620\nInformación: 113\nConmutador: 6202020*"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "d7069298-e365-44ff-9b75-c42d6fb1f14e",
+  "name": "oficinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3416d335-fd31-47bd-ad49-6d5ef3295027",
+          "required": false,
+          "dataType": "@operadorActual",
+          "name": "operadorActual",
+          "value": "$operadorActual",
+          "isList": false
+        },
+        {
+          "id": "75f69995-c491-4053-8792-3790ab7694d8",
+          "required": false,
+          "dataType": "@locationDataUser",
+          "name": "locationDataUser",
+          "value": "$locationDataUser",
+          "isList": false
+        },
+        {
+          "id": "a5c3c986-e1bd-4884-a5f5-6d7c39bf91bb",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Oficinas físicas y puntos de pago: Horario de atención 8:00 a.m - 11:30 a.m y de 2:00 p.m a 5:30 p.m. \n\nAquí podrás encontrar las direcciones físicas y ubicación en Google Maps: https://bit.ly/2Y54WpM"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

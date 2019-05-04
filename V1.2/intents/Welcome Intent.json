@@ -1,0 +1,35 @@
+{
+  "id": "c65d9e09-0a1e-4a56-a12d-55165f295b62",
+  "name": "Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Bienvenido a ERT soy un operador virtual, en este canal de comunicación puedes realizar consultas de tu estado tus servicios con ERT. para continuar escribe estado",
+            "Hola soy BERTO soy un operador virtual, en que te puedo ayudar hoy?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

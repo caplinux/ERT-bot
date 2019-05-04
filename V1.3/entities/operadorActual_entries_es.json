@@ -1,0 +1,42 @@
+[
+  {
+    "value": "ERT",
+    "synonyms": [
+      "ERT",
+      "ert"
+    ]
+  },
+  {
+    "value": "Claro",
+    "synonyms": [
+      "Claro",
+      "CLARO",
+      "claro"
+    ]
+  },
+  {
+    "value": "Telefonica",
+    "synonyms": [
+      "Telefonica",
+      "telefonica"
+    ]
+  },
+  {
+    "value": "UNE",
+    "synonyms": [
+      "UNE",
+      "une",
+      "tigo",
+      "tigoune",
+      "tigo une"
+    ]
+  },
+  {
+    "value": "MediaCommerce",
+    "synonyms": [
+      "MediaCommerce",
+      "mc",
+      "media comerce"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Internet",
+    "synonyms": [
+      "Internet",
+      "internet",
+      "banda ancha",
+      "adsl",
+      "fibra",
+      "fibra optica",
+      "IPv4",
+      "IPv6",
+      "ADSL"
+    ]
+  },
+  {
+    "value": "Telefonia",
+    "synonyms": [
+      "Telefonia",
+      "telefono",
+      "telefonia digital",
+      "SIP",
+      "TrunkSIP",
+      "E1",
+      "Primario",
+      "Lineas digitales",
+      "PSTN"
+    ]
+  },
+  {
+    "value": "Canales de Datos",
+    "synonyms": [
+      "Canales de Datos",
+      "canal de datos",
+      "canal dedicado",
+      "punto a punto",
+      "Clear Channel"
+    ]
+  },
+  {
+    "value": "Planes",
+    "synonyms": [
+      "Planes",
+      "planes"
+    ]
+  }
+]

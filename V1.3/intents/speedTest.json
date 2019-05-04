@@ -1,0 +1,30 @@
+{
+  "id": "6e09cf20-1708-49db-a786-93b4769d8d35",
+  "name": "speedTest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Pagina web para medición del acceso a Internet: http://medicion.ert.com.co/",
+            "Puedes adquirir nuevos planes si tu velocidad no es suficiente: http://medicion.ert.com.co/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

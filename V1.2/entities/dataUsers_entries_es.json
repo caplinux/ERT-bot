@@ -1,0 +1,64 @@
+[
+  {
+    "value": "nombre",
+    "synonyms": [
+      "nombre",
+      "Nombre"
+    ]
+  },
+  {
+    "value": "identificación",
+    "synonyms": [
+      "identificación",
+      "cedula",
+      "nit"
+    ]
+  },
+  {
+    "value": "cuenta",
+    "synonyms": [
+      "cuenta",
+      "numero de cuenta",
+      "linea",
+      "secuencia linea"
+    ]
+  },
+  {
+    "value": "tipo de documento",
+    "synonyms": [
+      "tipo de documento"
+    ]
+  },
+  {
+    "value": "telefono",
+    "synonyms": [
+      "telefono",
+      "celular",
+      "movil"
+    ]
+  },
+  {
+    "value": "acerca de",
+    "synonyms": [
+      "acerca de",
+      "información de ert",
+      "que es ERT"
+    ]
+  },
+  {
+    "value": "pagina web",
+    "synonyms": [
+      "pagina web",
+      "website",
+      "sitio web"
+    ]
+  },
+  {
+    "value": "contacto",
+    "synonyms": [
+      "telefonos",
+      "contactos",
+      "Contacto"
+    ]
+  }
+]

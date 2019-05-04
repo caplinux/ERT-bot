@@ -1,0 +1,109 @@
+[
+  {
+    "id": "e53ae3e1-83e2-4e14-8bff-7042b3704d6a",
+    "data": [
+      {
+        "text": "oficina ",
+        "userDefined": false
+      },
+      {
+        "text": "palmira",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5075a67c-b591-4ff2-8bf3-3d204b459646",
+    "data": [
+      {
+        "text": "oficina amaime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eefc5936-fa03-44dd-a493-fe60b303860a",
+    "data": [
+      {
+        "text": "puntos de pago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "148c2092-bc94-4769-9d15-08dc09f9e939",
+    "data": [
+      {
+        "text": "oficina ",
+        "userDefined": false
+      },
+      {
+        "text": "roldanillo",
+        "alias": "locationDataUser",
+        "meta": "@locationDataUser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cdda105-fd00-4162-bdab-f270e446742b",
+    "data": [
+      {
+        "text": "oficiana ",
+        "userDefined": false
+      },
+      {
+        "text": "buga",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "256a316a-8a0c-4e4e-850d-95ba17c7e593",
+    "data": [
+      {
+        "text": "oficina ",
+        "userDefined": false
+      },
+      {
+        "text": "cartago",
+        "alias": "locationDataUser",
+        "meta": "@locationDataUser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95efa563-b789-4675-a389-310b2099f5e8",
+    "data": [
+      {
+        "text": "direccion ",
+        "userDefined": false
+      },
+      {
+        "text": "ert",
+        "alias": "operadorActual",
+        "meta": "@operadorActual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "70291727-8e25-4e97-bb59-5bf2d16a4c6b",
+  "name": "typeServicesERT",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

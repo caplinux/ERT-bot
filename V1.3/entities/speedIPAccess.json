@@ -1,0 +1,9 @@
+{
+  "id": "fcd1be06-08c0-425a-882b-8aa07f495828",
+  "name": "speedIPAccess",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

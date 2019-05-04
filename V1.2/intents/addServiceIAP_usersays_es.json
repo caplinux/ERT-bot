@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ed890973-87c0-435b-94da-ce098052e201",
+    "data": [
+      {
+        "text": "Tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "conexión",
+        "alias": "operadorActual",
+        "meta": "@operadorActual",
+        "userDefined": true
+      },
+      {
+        "text": " actual a ",
+        "userDefined": false
+      },
+      {
+        "text": "Internet",
+        "alias": "internet",
+        "meta": "@typeServicesERT",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f0b1fc5-f2cc-45cd-b3cf-a8072a2ee55c",
+    "data": [
+      {
+        "text": "velocidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cfb5fac-c748-4adb-ae1f-60829dd6c0cc",
+    "data": [
+      {
+        "text": "banda ancha",
+        "alias": "internet",
+        "meta": "@typeServicesERT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a08292e-8dde-45b6-bcf5-a67c04d51e38",
+    "data": [
+      {
+        "text": "internet",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e45aa44e-09ad-4511-b892-533224c26162",
+    "data": [
+      {
+        "text": "fibra",
+        "alias": "internet",
+        "meta": "@typeServicesERT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

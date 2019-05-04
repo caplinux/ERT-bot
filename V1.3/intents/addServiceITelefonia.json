@@ -1,0 +1,42 @@
+{
+  "id": "e5b527d5-6754-488a-9767-b5aadfddbcd2",
+  "name": "addServiceITelefonia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f0631ef-0d38-4474-935f-e96c18fa5bc2",
+          "required": true,
+          "dataType": "@typeServicesERT",
+          "name": "typeServicesERT",
+          "value": "$typeServicesERT",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ingresa el tipo de solución telefónica te interesa?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Gracias, un representante comercial se pondrá en contacto contigo para darte más detalles. Necesitas algo más?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

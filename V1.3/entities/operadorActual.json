@@ -1,0 +1,9 @@
+{
+  "id": "21c50589-186f-4a51-a517-ad535060f3c1",
+  "name": "operadorActual",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

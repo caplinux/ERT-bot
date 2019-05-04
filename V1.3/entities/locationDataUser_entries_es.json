@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Ciudad",
+    "synonyms": [
+      "Ciudad",
+      "ciudad"
+    ]
+  },
+  {
+    "value": "Municipio",
+    "synonyms": [
+      "Municipio",
+      "municipio"
+    ]
+  },
+  {
+    "value": "Sede",
+    "synonyms": [
+      "Sede",
+      "sede"
+    ]
+  },
+  {
+    "value": "Sede Norte",
+    "synonyms": [
+      "Sede Norte",
+      "Cartago",
+      "Roldanillo",
+      "Buenaventura",
+      "Caicedonia",
+      "Zarzal"
+    ]
+  }
+]

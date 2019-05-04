@@ -1,0 +1,46 @@
+[
+  {
+    "id": "48b14755-4989-439f-9a37-42a55150c9b1",
+    "data": [
+      {
+        "text": "speedtest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1a82801-d1cc-4ff8-9ac6-2e8cb89b35f6",
+    "data": [
+      {
+        "text": "problemas de velocidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "540ed750-6764-4214-a1fb-f1003704ffb8",
+    "data": [
+      {
+        "text": "baja velocidad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3997931-82a5-4de5-b878-737881bda094",
+    "data": [
+      {
+        "text": "medidor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "fb15b232-fe27-48f7-8717-8a8f3905cdf2",
+  "name": "addServiceIAP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9539f83-eb35-4559-9f68-43f5a30fbdd7",
+          "required": true,
+          "dataType": "@typeServicesERT",
+          "name": "internet",
+          "value": "$internet",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Que tipo de conexión a Internet quieres (Fibra, ADSL)?"
+            },
+            {
+              "lang": "es",
+              "value": "Te gustaría Fibra o Cobre"
+            },
+            {
+              "lang": "es",
+              "value": "Internet de Alta Velocidad?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a0028ba2-bfc5-48c3-a473-0ac59b47d6b4",
+          "required": true,
+          "dataType": "@operadorActual",
+          "name": "operadorActual",
+          "value": "$operadorActual",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Que operador de Internet tienes actualmente?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Gracias, un representante comercial se pondrá en contacto contigo al e-mail  para darte más detalles. Necesitas algo más?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

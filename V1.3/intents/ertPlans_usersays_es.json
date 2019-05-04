@@ -1,0 +1,55 @@
+[
+  {
+    "id": "41b0f0b8-f5ae-44ad-a021-fc1b540926d9",
+    "data": [
+      {
+        "text": "cuanto ",
+        "userDefined": false
+      },
+      {
+        "text": "vale",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "alias": "typeServicesERT",
+        "meta": "@typeServicesERT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d21c06e-dff5-4cc6-a989-daa51fb8ba04",
+    "data": [
+      {
+        "text": "planes",
+        "alias": "typeServicesERT",
+        "meta": "@typeServicesERT",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e318deb3-15d0-49cb-ad4e-7578265cc60c",
+    "data": [
+      {
+        "text": "información",
+        "alias": "typeServicesERT",
+        "meta": "@typeServicesERT",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

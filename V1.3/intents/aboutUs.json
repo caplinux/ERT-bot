@@ -1,0 +1,27 @@
+{
+  "id": "c4f25ba9-f636-4046-9dba-d968ba4a5978",
+  "name": "aboutUs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La ERT se compromete a brindar satisfacción a sus clientes mediante la prestación efectiva de soluciones integrales e innovadoras, en tecnologías de la información y las comunicaciones dentro de un marco ético y de eficiencia; apoyados en procesos continuamente mejorados por su talento humano para garantizar la eficacia necesaria que nos permita lograr nuestra Misión Corporativa, orientada a favorecer el desarrollo de la Sociedad, colaboradores y accionistas.\n\nHoy hacemos parte de las empresas más importantes de Servicios Públicos certificadas en Colombia por la Norma Técnica de Calidad en la Gestión Pública y la ISO 9001.2008.\n\nEl mejoramiento del servicio y la satisfacción de nuestros usuarios, son nuestra razón de ser.\n\nSociedad por Acciones, Oficial, Descentralizada,del Orden Departamental.   \nOperadora del Servicio de Telefonía Pública Básica, Conmutada Local y Local Extendida en 18 localidades.\nLicencia para prestar Servicios de Valor Agregado.\nLicencia para prestar Servicios de Portador. \n\nPara mayor información: https://bit.ly/2VhMKMD\n\nLinea de Reporte de Daños: 185\nLinea Gratuita: 018000 520 620\nInformación: 113\nConmutador: 6202020"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "100M",
+    "synonyms": [
+      "100M",
+      "100"
+    ]
+  },
+  {
+    "value": "50M",
+    "synonyms": [
+      "50",
+      "50M"
+    ]
+  },
+  {
+    "value": "10M",
+    "synonyms": [
+      "10M",
+      "10"
+    ]
+  },
+  {
+    "value": "vel",
+    "synonyms": [
+      "vel"
+    ]
+  }
+]

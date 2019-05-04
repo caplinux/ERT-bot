@@ -1,0 +1,9 @@
+{
+  "id": "53c10b42-7405-4533-a2c4-5a075faf073e",
+  "name": "dataUsers",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

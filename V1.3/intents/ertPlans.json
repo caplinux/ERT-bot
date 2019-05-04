@@ -1,0 +1,46 @@
+{
+  "id": "609e22a9-d875-4816-a89d-c1ea6bd833c4",
+  "name": "ertPlans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8c2a0e89-02ec-4f34-b429-f261e6c05610",
+          "required": false,
+          "dataType": "@typeServicesERT",
+          "name": "typeServicesERT",
+          "value": "$typeServicesERT",
+          "isList": false
+        },
+        {
+          "id": "729ab928-1612-44b9-8635-5c9be177215e",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Planes de 5,10, 15, 50, 100 Mbps para mayor información consulta la pagina http://www.ert.com.co.\nPlanes: https://bit.ly/2DQKh18\n\nPara empresas: https://bit.ly/2VdVhQW\nPara sector Gobierno: https://bit.ly/2Liqj5j"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": false,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "f2411ddc-bff3-4282-8f0c-cee76f3288cf",
+  "name": "locationDataUser",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
